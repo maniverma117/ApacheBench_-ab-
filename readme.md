@@ -1,7 +1,7 @@
 # ApacheBench (`ab`) on Ubuntu and macOS, and generating requests with explanations of the outputs
 
-```markdown
-# ApacheBench (ab) Installation and Usage Guide
+
+## ApacheBench (ab) Installation and Usage Guide
 
 ApacheBench (ab) is a tool for benchmarking the performance of your web server. This guide provides instructions for installing `ab` on Ubuntu and macOS, and details on how to generate requests and interpret the results.
 
